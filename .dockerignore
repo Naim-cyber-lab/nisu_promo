@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.ipynb
+*.png
+nisu_promo_results.csv
+tiktok_stuck.png
+comment_debug.png
+comment_result.png
+tt_8.json
+tt_8_pw.json
+.env
